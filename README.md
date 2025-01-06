@@ -4,7 +4,7 @@
 
 I am a student of Daffodil International University Department of Computer Science engineering(CSE).Love to learn new skills.
 
-Skills: VUE JS / / JS /  CSS/C
+Skills: VUE JS / / JS /  CSS/C // PHP
 
 - 🔭 I’m currently working on Facebook 
 - 🌱 I’m currently learning Java 
